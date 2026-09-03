@@ -90,4 +90,4 @@ STEP 7 - SCREENSHOTS
   ![image alt](https://github.com/ajith2004-a/carrentals/blob/678efcc587d156468f9199fb6387d100052d8fb3/WhatsApp%20Image%202026-09-03%20at%2015.38.30%20(1).jpeg)
   ![image alt](https://github.com/ajith2004-a/carrentals/blob/bc50fc0c4bdb441a1919eb7ec66064d352534b0f/WhatsApp%20Image%202026-09-03%20at%2015.38.29.jpeg)
   ![image alt](https://github.com/ajith2004-a/carrentals/blob/4f2e085d06895e479fa6cfe96eda8abd52276ebf/WhatsApp%20Image%202026-09-03%20at%2015.38.30.jpeg)
-
+  ![image alt](https://github.com/ajith2004-a/carrentals/blob/98b303e869d9d2ed55c1d8055b398edeb67433e0/WhatsApp%20Image%202026-09-03%20at%2015.38.28.jpeg)
