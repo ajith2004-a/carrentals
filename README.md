@@ -12,7 +12,7 @@ STEP 2 - TECNOLOGIES USED
 - CSS
 - JavaScript
 - AWS EC2
- STEP 3 - FEATURES
+  STEP 3 - FEATURES
 
 - User Registration and Login
 - User Profile Management
