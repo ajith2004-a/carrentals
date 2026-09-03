@@ -86,6 +86,8 @@ The application uses MySQL for storing application data such as:
 - Testimonials
 - Application-related data
 
+STEP 7 - SCREENSHOTS
+
+<img width="1040" height="780" alt="WhatsApp Image 2026-09-03 at 15 38 35" src="https://github.com/user-attachments/assets/8426457e-f90d-4e7a-87b8-3867b811f041" />
 
 
-- 
