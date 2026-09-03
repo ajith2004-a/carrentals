@@ -80,7 +80,7 @@ STEP 6 - DATABASE
 
 The application uses MySQL for storing application data such as:
 
-- User information
+- User informatioN
 - Vehicle information
 - Booking information
 - Testimonials
