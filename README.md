@@ -46,9 +46,6 @@ carrentals/
 STEP 5 - AWS DEPLOYMENT
 ### Step 5 — AWS Deployment
 
-Add:
-
-```markdown
 ## AWS Deployment
 
 The application is deployed on an AWS EC2 Ubuntu instance using the LAMP stack.
