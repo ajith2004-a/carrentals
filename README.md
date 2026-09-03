@@ -86,6 +86,6 @@ The application uses MySQL for storing application data such as:
 STEP 7 - SCREENSHOTS
  ## PROJECTS SCREENSHOTS
   ![image alt](https://github.com/ajith2004-a/carrentals/blob/72f961edd24bb8e3dd06f2dffc1a1ff534bd6b11/WhatsApp%20Image%202026-09-03%20at%2015.38.35.jpeg)
-  
+  ![image alt](https://github.com/ajith2004-a/carrentals/blob/f3216f8806366647927f70603b3ae2ae43d9c33e/WhatsApp%20Image%202026-09-03%20at%2015.38.31.jpeg)
 
 
